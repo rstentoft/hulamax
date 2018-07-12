@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Hula">2d1aef72dbd0130079b452b0cf961977</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Hula Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_130303_hula_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_130303_hula.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-12 10:50:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4b4f0734db13130079b452b0cf96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hula Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hula" source="x_130303_hula">d64f4370db13130079b452b0cf96196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hula">d64f4370db13130079b452b0cf96196a</sys_scope>
+        <sys_update_name>sys_app_module_4b4f0734db13130079b452b0cf96197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-12 10:50:12</sys_updated_on>
+        <timeline_page/>
+        <title>Hula Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

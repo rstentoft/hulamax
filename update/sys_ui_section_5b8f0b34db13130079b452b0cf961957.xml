@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="5b8f0b34db13130079b452b0cf961957" sys_domain="global" table="x_130303_hula_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 10:51:19</sys_created_on>
+            <sys_id>1f8f0b34db13130079b452b0cf96195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_130303_hula_table" sys_domain="global" view="Default view">5b8f0b34db13130079b452b0cf961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 10:51:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fornavn</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 10:52:13</sys_created_on>
+            <sys_id>68cfcb34db13130079b452b0cf961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_130303_hula_table" sys_domain="global" view="Default view">5b8f0b34db13130079b452b0cf961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 10:52:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>efternavn</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 10:52:32</sys_created_on>
+            <sys_id>11df0f34db13130079b452b0cf9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_130303_hula_table" sys_domain="global" view="Default view">5b8f0b34db13130079b452b0cf961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 10:52:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_130303_hula_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 10:51:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b8f0b34db13130079b452b0cf961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_130303_hula_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hula" source="x_130303_hula">d64f4370db13130079b452b0cf96196a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hula">d64f4370db13130079b452b0cf96196a</sys_scope>
+            <sys_update_name>sys_ui_section_5b8f0b34db13130079b452b0cf961957</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 10:51:18</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
